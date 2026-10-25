@@ -4,6 +4,11 @@ Copy-paste prompts for short AI videos. One job, one model, one prompt.
 
 **Channel:** https://t.me/Vid_trends
 
+Same pack, other public pages:
+
+- https://telegra.ph/AI-video-prompts-you-can-paste-today-10-25
+- https://rentry.co/f3busxga
+
 New prompt every day. These are the ones already posted.
 
 ## Which model
